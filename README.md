@@ -1,4 +1,5 @@
 # rotator
+# AN OPEN SOURCE JAVASCRIPT LIBRARY TO ANIMATE ROTATION TO ANY WEB PAGE ELEMENT
 
 hello this is Siddhartha Bajpai here i present my rotator.js javaScript library, 
 now you can animate the components in your html page with just a line of code 
